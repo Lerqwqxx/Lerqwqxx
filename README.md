@@ -26,7 +26,7 @@
 
 ### About Me :
 
-I am a Full Stack Developer <img height="380" src = "https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif">
+I am a Full Stack Developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 -  I am developing external and internal interfaces for creating web applications.
 
