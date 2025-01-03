@@ -48,7 +48,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5
 ---
 <div align="center">
   
-### :fire: My Stats. :
+### :fire: My Stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=Lerqwqxx&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lerqwqxx&theme=radical&hide_border=false)<br/>
