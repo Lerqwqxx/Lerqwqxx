@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="200"/>
 </div>
 <div id="header" align="center">
-<h1>Hi there, I'm Valeryia</h1><img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif?cid=ecf05e478pzitif7psiocb2bd87butj4rkj93wzrqrnv5mz9&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="30"> 
+<h1>Hi there, I'm Valeryia</h1>
 <h3>Full Stack Developer</h3>
 <h3>Belarus, Molodechno</h3>
 </div>
@@ -21,12 +21,12 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmF2anJrb3lrZ3U3bnltcmxiZDZtYzh2bTQ3Zmw5b2ZwNDF2cGl4ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif?cid=ecf05e478pzitif7psiocb2bd87butj4rkj93wzrqrnv5mz9&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 
 ### About Me :
 
-I am a Full Stack Developer <img height="380" src = "https://github.com/Bhard27/Bhard27/blob/master/mee.gif">
+I am a Full Stack Developer <img height="380" src = "https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif">
 
 -  I am developing external and internal interfaces for creating web applications.
 
